@@ -1,2 +1,4 @@
-# HelloWorld
- Primeiro Repositório Curso Git e GIthub
+# Hello, World!
+Primeiro repositório do Curso de Git e Github
+
+Repositório criado durante uma aula ao vivo!
